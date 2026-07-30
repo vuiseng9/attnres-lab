@@ -8,3 +8,5 @@ matplotlib
 tqdm
 # required for eval
 accelerate
+einops
+fla-core
